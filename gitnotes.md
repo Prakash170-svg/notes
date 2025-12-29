@@ -231,7 +231,7 @@ Exercise:
 # Create a new branch
 	$ git branch dev_1.2.3
 
-# Add some changes to newely created branch i.e dev_1.2.3
+# Add some changes to newly created branch i.e dev_1.2.3
 	$ Modify/Add some files	
 	$ git add	
 	$ git commit 
