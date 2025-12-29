@@ -223,7 +223,7 @@ Merging:
 ======
 # FAST-FORWARD MERGE
 
-Excercise:
+Exercise:
 ===========
 # List all the branches
 	$ git branch
