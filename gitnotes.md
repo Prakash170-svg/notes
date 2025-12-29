@@ -37,7 +37,7 @@ Creating remote repository in github
 	URL: https://github.com
 
 2. login github.com with your credentials. 	
-     	click on "new repository" --> "create reopository" 
+     	click on "new repository" --> "create repository" 
 
 3. copy the repo URL from Github:
 	https://github.com/<github-username>/REPO-NAME.git
