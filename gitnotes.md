@@ -179,7 +179,7 @@ Phase-7
 # BRANCHING
 	A. What is a branch?
 	B. Why and When we create a branch?
-	C. Branching Stratogy overview
+	C. Branching Strategy overview
 
 
 # List all the branches
