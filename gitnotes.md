@@ -214,7 +214,7 @@ Phase-7
 # HEAD
 HEAD is a pointer in git which
 	- Always points to the latest commit in the repository
-	- Always points to tip of the current reposiotory
+	- Always points to tip of the current repository
 	- Always points to parent of the next commit
 
 Day-8
