@@ -121,7 +121,7 @@ Creating up Local repository
 	$ git add <filename>
 
 5.Commiting the file to local repository
-	$ git commit <filename> -m "lgoin module code"
+	$ git commit <filename> -m "login module code"
 
 6.Check the log of Login.java using log command.
 	$ git log <filename>
