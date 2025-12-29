@@ -85,7 +85,7 @@ Phase-3
 Phase-4
 =========
  
-#If you want downlod remote repository then apply this commnad (It is first time activity).
+#If you want to download remote repository then apply this commnad (It is first time activity).
 	$ git clone <repo-url>
 
 #If you want to download modified content from remote repo then apply this command, after git pull your modified changes comes in working area.
