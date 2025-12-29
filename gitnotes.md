@@ -64,7 +64,7 @@ Creating remote repository in github
 Git Architecture Diagram
 
 	------------------------------------------------------	
-	. (Souce area) | ..(Stage) | .git (Local Repository) |
+	. (Source area) | ..(Stage) | .git (Local Repository) |
 		       |           |			     |
 	------------------------------------------------------
 
