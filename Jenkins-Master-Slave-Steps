@@ -1,5 +1,6 @@
 docker install
 docker login
+docker run -it --name=QA ubuntu /bin/bash
 
 apt-get update
    
